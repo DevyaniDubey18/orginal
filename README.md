@@ -1,3 +1,4 @@
 # orginal
-this is my first git repository
-author devyani dubey
+this is my first git 
+author miss   devyani dubey.
+belongs to raipur.
